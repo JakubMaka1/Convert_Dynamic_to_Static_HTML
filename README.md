@@ -11,3 +11,8 @@ Wyświelenie istniejących włacoznych/zatrzymanych usług
 pm2 list
 
 komendę pm2 musimy odpalić w katalogu skryptu, zdjęcia przechowywane są w katalogu "Lokalizacja_Skyptu"/Public jako pliki *.png
+
+#Instalacja pm2 i puppetera
+npm
+npm install puppeteer
+npm i puppeteer-core
